@@ -11,6 +11,7 @@ Quickly and easily send documents for **eSignature** using a friendly user inter
 -  CLM
 -  CPQ
 -  Billing
+-  Composer
 
 1.  CLM
 1.  CPQ

@@ -24,6 +24,3 @@ Quickly and easily send documents for **eSignature** using a friendly user inter
 | Sandip     | Patel     |
 
 To delete the file click ![](/Demo/assets/images/delete.png "Delete Icon")
-
-# Internal Link
-This is an internal link.

@@ -21,4 +21,3 @@ Quickly and easily send documents for **eSignature** using a friendly user inter
 | Gunjan     | Kabra     |
 | Sandip     | Patel     |
 
-To delete the file click ![](/DocasCodeday1/assets/images/delete.png "Delete Icon")
